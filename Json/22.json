@@ -1,0 +1,11 @@
+{
+  "SHIPMENT_ID": 22,
+  "USER_ID": {
+    "CUSTOMER_ID": "CUS11111",
+    "CARRIER_ID": "CAR22222",
+    "SUPPILER_ID": "SUP33333"
+  },
+  "TX_ID": [
+    "e378ae5c6c65b6f8ebdb9c8a3d8173b7215f0fbbf88cb25dfa2a5c878bf9a26d"
+  ]
+}

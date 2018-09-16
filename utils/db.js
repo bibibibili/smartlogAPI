@@ -1,7 +1,7 @@
 // Create connection to mongoose
 let mongoose = require('mongoose')
 const server = '127.0.0.1:27017'
-const dbName = 'test'
+const dbName = 'log'
 mongoose.connect(`mongodb://${server}/${dbName}`, (error) => {
   if (error) {
     console.log('Error ' + error)
